@@ -35,6 +35,10 @@ php artisan serve
 | Vista | `resources/views/servidor.blade.php` | Muestra las tarjetas y hace polling cada 5 segundos |
 | Rutas | `routes/web.php`, `routes/api.php` | `/servidor` y `/api/metrics` |
 
+*Capturas
+<img width="1917" height="395" alt="Captura de pantalla 2026-11-05 120249" src="https://github.com/user-attachments/assets/1e6b710b-ebbf-4d9a-87e9-65fbaebcf802" />
+<img width="305" height="427" alt="Captura de pantalla 2026-11-05 120243" src="https://github.com/user-attachments/assets/f89d4a2d-dbf6-4856-b46b-5d5db86d3a1d" />
+<img width="1910" height="327" alt="Captura de pantalla 2026-11-05 123157" src="https://github.com/user-attachments/assets/7fb4e786-990f-4983-8acb-cd51a985e50a" />
 
 
 ## Respuestas a las preguntas
